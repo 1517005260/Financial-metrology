@@ -1,0 +1,118 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{none/global//global/global/global}
+  \entry{du2007}{article}{}{}
+    \name{author}{2}{}{%
+      {{hash=�}{%
+         family={都国雄},
+         familyi={�\bibinitperiod},
+      }}%
+      {{hash=�}{%
+         family={宁宣熙},
+         familyi={�\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{�+1}
+    \strng{fullhash}{��1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{5}
+    \field{pages}{16\bibrangedash 22}
+    \field{title}{我国股市收益概率分布的统计特性分析}
+    \field{volume}{15}
+    \field{journaltitle}{中国管理科学}
+    \field{year}{2007}
+  \endentry
+
+  \entry{ghashghaie1996}{article}{}{}
+    \name{author}{5}{}{%
+      {{hash=GS}{%
+         family={Ghashghaie},
+         familyi={G\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=BW}{%
+         family={Breymann},
+         familyi={B\bibinitperiod},
+         given={W.},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=PJ}{%
+         family={Peinke},
+         familyi={P\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=TP}{%
+         family={Talkner},
+         familyi={T\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=DY}{%
+         family={Dodge},
+         familyi={D\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GS+1}
+    \strng{fullhash}{GSBWPJTPDY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1038/381767a0
+    \endverb
+    \field{number}{6585}
+    \field{pages}{767\bibrangedash 770}
+    \field{title}{Turbulent cascades in foreign exchange markets}
+    \field{volume}{381}
+    \field{journaltitle}{Nature}
+    \field{year}{1996}
+  \endentry
+
+  \entry{chen2008}{article}{}{}
+    \name{author}{3}{}{%
+      {{hash=�}{%
+         family={陈收},
+         familyi={�\bibinitperiod},
+      }}%
+      {{hash=�}{%
+         family={杨宏林},
+         familyi={�\bibinitperiod},
+      }}%
+      {{hash=�}{%
+         family={李双飞},
+         familyi={�\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{�+2}
+    \strng{fullhash}{���1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{3}
+    \field{pages}{8\bibrangedash 15}
+    \field{title}{中国股票市场多标度幂律特征和临界现象}
+    \field{volume}{16}
+    \field{journaltitle}{中国管理科学}
+    \field{year}{2008}
+  \endentry
+\enddatalist
+\endinput
