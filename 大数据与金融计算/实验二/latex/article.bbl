@@ -1,0 +1,138 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{none/global//global/global/global}
+  \entry{fama1973risk}{article}{}{}
+    \name{author}{2}{}{%
+      {{hash=FEF}{%
+         family={Fama},
+         familyi={F\bibinitperiod},
+         given={Eugene\bibnamedelima F.},
+         giveni={E\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=MJD}{%
+         family={MacBeth},
+         familyi={M\bibinitperiod},
+         given={James\bibnamedelima D.},
+         giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {The University of Chicago Press}%
+    }
+    \strng{namehash}{FEF+1}
+    \strng{fullhash}{FEFMJD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{3}
+    \field{pages}{607\bibrangedash 636}
+    \field{title}{Risk, Return, and Equilibrium: Empirical Tests}
+    \field{volume}{81}
+    \field{journaltitle}{Journal of Political Economy}
+    \field{year}{1973}
+  \endentry
+
+  \entry{jin2001capm}{article}{}{}
+    \name{author}{2}{}{%
+      {{hash=�}{%
+         family={靳云汇},
+         familyi={�\bibinitperiod},
+      }}%
+      {{hash=�}{%
+         family={刘霖},
+         familyi={�\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {Chinese}%
+    }
+    \strng{namehash}{�+1}
+    \strng{fullhash}{��1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{7}
+    \field{pages}{106\bibrangedash 115}
+    \field{title}{中国股票市场CAPM的实证研究}
+    \field{volume}{253}
+    \field{journaltitle}{金融研究}
+    \field{year}{2001}
+  \endentry
+
+  \entry{jia2003efficiency}{article}{}{}
+    \name{author}{2}{}{%
+      {{hash=�}{%
+         family={贾权},
+         familyi={�\bibinitperiod},
+      }}%
+      {{hash=�}{%
+         family={陈章武},
+         familyi={�\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {Chinese}%
+    }
+    \strng{namehash}{�+1}
+    \strng{fullhash}{��1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{86\bibrangedash 92}
+    \field{title}{中国股市有效性的实证分析}
+    \field{volume}{7}
+    \field{journaltitle}{金融研究}
+    \field{year}{2003}
+  \endentry
+
+  \entry{shi2015profitability}{article}{}{}
+    \name{author}{3}{}{%
+      {{hash=SHL}{%
+         family={Shi},
+         familyi={S\bibinitperiod},
+         given={Huai-Long},
+         giveni={H\bibinithyphendelim L\bibinitperiod},
+      }}%
+      {{hash=JZQ}{%
+         family={Jiang},
+         familyi={J\bibinitperiod},
+         given={Zhi-Qiang},
+         giveni={Z\bibinithyphendelim Q\bibinitperiod},
+      }}%
+      {{hash=ZWX}{%
+         family={Zhou},
+         familyi={Z\bibinitperiod},
+         given={Wei-Xing},
+         giveni={W\bibinithyphendelim X\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Public Library of Science}%
+    }
+    \strng{namehash}{SHL+1}
+    \strng{fullhash}{SHLJZQZWX1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{9}
+    \field{pages}{e0137892}
+    \field{title}{Profitability of Contrarian Strategies in the Chinese Stock
+  Market}
+    \field{volume}{10}
+    \field{journaltitle}{PLOS ONE}
+    \field{year}{2015}
+  \endentry
+\enddatalist
+\endinput
