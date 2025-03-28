@@ -1,0 +1,190 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{none/global//global/global/global}
+  \entry{chen2014}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=�}{%
+         family={陈坚},
+         familyi={�\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {chinese}%
+    }
+    \strng{namehash}{�1}
+    \strng{fullhash}{�1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{4}
+    \field{pages}{45\bibrangedash 54}
+  \field{title}{中国股票市场尾部风险与收益率预测———基于Copula与极值理论的VaR对比研究}
+    \field{volume}{2014}
+    \field{journaltitle}{厦门大学学报(哲学社会科学版)}
+    \field{year}{2014}
+  \endentry
+
+  \entry{li2023}{article}{}{}
+    \name{author}{2}{}{%
+      {{hash=�}{%
+         family={李斌},
+         familyi={�\bibinitperiod},
+      }}%
+      {{hash=�}{%
+         family={龙真},
+         familyi={�\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {chinese}%
+    }
+    \strng{namehash}{�+1}
+    \strng{fullhash}{��1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{10}
+    \field{pages}{138\bibrangedash 159}
+    \field{title}{中国股票市场可预测性研究:
+  基于机器学习的视角}
+    \field{volume}{26}
+    \field{journaltitle}{管理科学学报}
+    \field{year}{2023}
+  \endentry
+
+  \entry{rapach2020}{book}{}{}
+    \name{author}{2}{}{%
+      {{hash=RDE}{%
+         family={Rapach},
+         familyi={R\bibinitperiod},
+         given={David\bibnamedelima E.},
+         giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=ZG}{%
+         family={Zhou},
+         familyi={Z\bibinitperiod},
+         given={Guofu},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=JE}{%
+         family={Jurczenko},
+         familyi={J\bibinitperiod},
+         given={Emmanuel},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{2}{%
+      {ISTE Ltd}%
+      {John Wiley \& Sons, Inc.}%
+    }
+    \strng{namehash}{RDE+1}
+    \strng{fullhash}{RDEZG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Machine Learning for Asset Management: New Developments
+  and Financial Applications}
+    \field{title}{Time-series and Cross-sectional Stock Return Forecasting: New
+  Machine Learning Methods}
+    \field{year}{2020}
+  \endentry
+
+  \entry{chen2018}{article}{}{}
+    \name{author}{2}{}{%
+      {{hash=�}{%
+         family={陈坚},
+         familyi={�\bibinitperiod},
+      }}%
+      {{hash=�}{%
+         family={张轶凡},
+         familyi={�\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {chinese}%
+    }
+    \strng{namehash}{�+1}
+    \strng{fullhash}{��1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{9}
+    \field{pages}{107\bibrangedash 125}
+    \field{title}{中国股票市场的已实现偏度与收益率预测}
+    \field{volume}{2018}
+    \field{journaltitle}{金融研究}
+    \field{year}{2018}
+  \endentry
+
+  \entry{jiang2019}{article}{}{}
+    \name{author}{3}{}{%
+      {{hash=�}{%
+         family={蒋志强},
+         familyi={�\bibinitperiod},
+      }}%
+      {{hash=�}{%
+         family={田婧雯},
+         familyi={�\bibinitperiod},
+      }}%
+      {{hash=�}{%
+         family={周炜星},
+         familyi={�\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {chinese}%
+    }
+    \strng{namehash}{�+1}
+    \strng{fullhash}{���1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{4}
+    \field{pages}{92\bibrangedash 109}
+    \field{title}{中国股票市场收益率的可预测性研究}
+    \field{volume}{22}
+    \field{journaltitle}{管理科学学报}
+    \field{year}{2019}
+  \endentry
+
+  \entry{mclean2016}{article}{}{}
+    \name{author}{2}{}{%
+      {{hash=MRD}{%
+         family={McLean},
+         familyi={M\bibinitperiod},
+         given={R.\bibnamedelima David},
+         giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=PJ}{%
+         family={Pontiff},
+         familyi={P\bibinitperiod},
+         given={Jeffrey},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MRD+1}
+    \strng{fullhash}{MRDPJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{1}
+    \field{pages}{26\bibrangedash 58}
+    \field{title}{Does Academic Research Destroy Stock Return Predictability?}
+    \field{volume}{71}
+    \field{journaltitle}{The Journal of Finance}
+    \field{year}{2016}
+  \endentry
+\enddatalist
+\endinput
