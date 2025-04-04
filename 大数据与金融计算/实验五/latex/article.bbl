@@ -1,0 +1,54 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{none/global//global/global/global}
+  \entry{sun2019covariance}{article}{}{}
+    \name{author}{3}{}{%
+      {{hash=�}{%
+         family={孙慧萍},
+         familyi={�\bibinitperiod},
+      }}%
+      {{hash=�}{%
+         family={王美清},
+         familyi={�\bibinitperiod},
+      }}%
+      {{hash=�}{%
+         family={洪倩颖},
+         familyi={�\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {福州大学}%
+    }
+    \strng{namehash}{�+1}
+    \strng{fullhash}{���1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.7631/issn.1000-2243.18228
+    \endverb
+    \field{number}{2}
+    \field{pages}{173\bibrangedash 179}
+  \field{title}{对冲基金分布复制模型的协方差估计与算法实现}
+    \field{volume}{47}
+    \field{journaltitle}{福州大学学报(自然科学版)}
+    \field{month}{04}
+    \field{year}{2019}
+  \endentry
+\enddatalist
+\endinput
