@@ -1,0 +1,482 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>氯碱化工（600618）历史交易数据_股票行情_网易财经</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="氯碱化工,600618,股票行情,氯碱化工历史交易数据,氯碱化工每日价格统计" />
+<meta name="description" content="提供氯碱化工(600618)股票的股票行情、历史交易数据、每日价格统计等信息。" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Language" content="zh-CN" />
+<meta name="robots" content="index, follow" />
+<meta name="googlebot" content="index, follow" />
+<link href="http://img1.cache.netease.com/f2e/finance/gegu/s.1064000.css" rel="stylesheet" type="text/css" charset="utf-8">
+<link href="http://img1.cache.netease.com/f2e/finance/gegu/danmaku.959699.css" rel="stylesheet" type="text/css" charset="utf-8">
+</head>
+<body class="test">
+<script charset="gb2312" src="http://img1.cache.netease.com/cnews/js/ntes_jslib_1.x.js" language="javascript" type="text/javascript"></script>
+<div class="NTES_bg_">
+  <div class="NTES-nav"> <span class="nav-link"><a href="http://www.163.com/">网易首页</a>-<a href="http://news.163.com/">新闻</a>-<a href="http://sports.163.com/">体育</a>-<a href="http://sports.163.com/nba/">NBA</a>-<a href="http://ent.163.com/">娱乐</a>-<a href="http://money.163.com/">财经</a>-<a href="http://money.163.com/stock/">股票</a>-<a href="http://auto.163.com/" id="_link_auto">汽车</a>-<a href="http://tech.163.com/">科技</a>-<a href="http://mobile.163.com/">手机</a>-<a href="http://lady.163.com/">女人</a>-<a href="http://bbs.163.com/">论坛</a>-<a href="http://v.163.com/">视频</a>-<a href="http://blog.163.com/">博客</a>-<a href="http://house.163.com/" id="houseUrl">房产</a>-<a id="homeUrl" href="http://home.163.com/">家居</a>-<a href="http://edu.163.com/">教育</a>-<a href="http://book.163.com/">读书</a>-<a href="http://game.163.com/" id="_link_game">游戏</a>-<a href="http://t.163.com/">微博</a> |</span>
+    <div class="rightCon">
+      <div class="NTES-link"> <a href="http://email.163.com/" class="cBlue">免费邮箱</a> - <a href="http://reg.163.com/" class="cBlue">通行证登录</a> </div>
+      <a href="http://www.163.com/rss"><img width="26" height="14" border="0" src="http://img3.cache.netease.com/cnews/img07/rss.gif" class="rss" alt="Rss"></a> </div>
+  </div>
+</div>
+<script>
+//<![CDATA[
+NTES.ready(function($) {
+    var P_INFO = NTES.cookie.get("P_INFO");
+    var S_INFO = NTES.cookie.get("S_INFO");
+    if (P_INFO) {
+        var mailconfig = {
+            "163.com": "http://entry.mail.163.com/coremail/fcg/ntesdoor2?verifycookie=1&lightweight=1",
+            "126.com": "http://entry.mail.126.com/cgi/ntesdoor?verifycookie=1&lightweight=1&style=-1",
+            "vip.126.com": "http://reg.vip.126.com/enterMail.m",
+            "yeah.net": "http://entry.yeah.net/cgi/ntesdoor?verifycookie=1&lightweight=1&style=-1",
+            "188": "http://reg.mail.188.com/servlet/enter",
+            "vip.163.com": "http://reg.vip.163.com/enterMail.m?enterVip=true-----------"
+        };
+        var passport = P_INFO.substr(0, P_INFO.indexOf("|"));
+        var username = passport.substr(0, P_INFO.indexOf("@"));
+        var logstate = P_INFO.split("|")[2];
+        var logiframe = "";
+        var pspt = passport.length >= 6 ? passport.substr(0, 5) + "...": passport;
+        /@([^*]+)/.test(passport);
+        var logdomain = RegExp.$1;
+        if (P_INFO && S_INFO || logstate == "1") {
+            var entrylink_html = '<a href=\"http://reg.163.com/Main.jsp?username=' + passport + '\">进入通行证</a>';
+            if (mailconfig[logdomain] != undefined) {
+                entrylink_html += '<a href=\"' + mailconfig[logdomain] + '\">进入我的邮箱</a>'
+            }
+            if (logdomain == "popo.163.com" || mailconfig[logdomain] != undefined) {
+                entrylink_html += '<a href="http://blog.163.com/passportIn.do?entry=163">进入我的博客</a><a href="http://photo.163.com/?username=' + passport + '\">进入我的相册</a>'
+            }
+            entrylink_html += '<a href="http://yuehui.163.com/">进入我的约会</a><a href="http://t.163.com">进入我的微博</a>';
+            if (logdomain == "163.com" || logdomain == "126.com" || logdomain == "yeah.net") {
+                logiframe = '<iframe allowTransparency=\"true\" style=\"width: 56px; height:26px; float:left; vertical-align: middle;\" id=\"ifrmNtesMailInfo\" border=\"0\" src=\"http://p.mail.' + logdomain + '/mailinfo/shownewmsg_www_1222.htm\" frameBorder=\"0\" scrolling=\"no\"></iframe>'
+            }
+            var login_html = '<div class=\"ntes-usercenter\"><div class=\"ntes-usercenter-logined\"><strong id=\"ntes_usercenter_name\" class=\"ntes-usercenter-name\" title=\"欢迎你，' + passport + '\">' + pspt + '</strong></div><div id=\"ntes_usercenter_entry\" class=\"ntes-usercenter-entry\"><span class=\"user-entry\">' + entrylink_html + '</span></div></div>' + logiframe + '|<a class=\"ntes-usercenter-loginout\" href=\"http://reg.163.com/Logout.jsp?username=' + passport + '\" target=\"_self\">退出</a></div>';
+            $(".NTES-link")[0].innerHTML = login_html;
+            $("#ntes_usercenter_name").addEvent("click",
+            function(e) {
+                $("#ntes_usercenter_entry").style.display = $("#ntes_usercenter_entry").style.display == "block" ? "none": "block";
+                e.preventDefault();
+                e.cancelBubble = true;
+                document.onclick = function() {
+                    $("#ntes_usercenter_entry").style.display = "none"
+                }
+            })
+        }
+    }
+})
+//]]>
+</script>
+
+<div class="area">
+    <div class="header">
+    <div class="logo_area">
+        <a href="http://money.163.com" class="logo" title="网易财经"></a><span
+        class="title">个股行情</span>
+        <span class="crumbs"><a href="http://www.163.com">网易首页</a><span>&gt;</span><a
+            href="http://money.163.com">网易财经</a><span>&gt;</span><a
+            href="http://quotes.money.163.com">行情</a><span>&gt;</span><a
+            href="http://quotes.money.163.com">沪深</a><span>&gt;</span><a
+            href="/0600618.html">氯碱化工</a><span>&gt;</span><a
+                    href="#">历史交易数据</a>
+                        </span>
+        <iframe src="http://money.163.com/special/ad224_30/" frameborder="0" scrolling="no" style="width:245px;height:40px;border:none;margin-top:-20px;vertical-align: middle;"></iframe>
+    </div>
+    <table class="main_nav">
+        <tr>
+            <td><a href="http://quotes.money.163.com/" title="行情中心" target="_blank">行情中心</a></td>
+            <!--<td><a href="" title="数据中心">数据中心</a></td>
+            <td><a href="" title="资金流向">资金流向</a></td>-->
+            <td><a href="http://i.money.163.com/" title="我的投资" class="separate" target="_blank">我的投资</a></td>
+            <td><a href="http://money.163.com/stock" title="股票" target="_blank">股票</a></td>
+            <td><a href="http://money.163.com/ipo" title="新股" target="_blank">新股</a></td>
+            <td><a href="http://money.163.com/chinext" title="创业板" target="_blank">创业板</a></td>
+            <td><a href="http://money.163.com/fund" title="基金" target="_blank">基金</a></td>
+            <td><a href="http://money.163.com/hkstock" title="港股" target="_blank">港股</a></td>
+            <td><a href="http://money.163.com/usstock" title="美股" target="_blank">美股</a></td>
+            <td><a href="http://money.163.com/futures" title="期货" target="_blank">期货</a></td>
+            <td><a href="http://money.163.com/forex/" title="外汇" target="_blank">外汇</a></td>
+        </tr>
+    </table>
+    <div class="top_info clearfix">
+        <div class="col_1">
+            <span><a class="fB" href="http://quotes.money.163.com/0000001.html" target="_blank">上证指数</a></span>
+            <span _ntesquote_="code:0000001;attr:price;fixed:2;color:updown;bgchg:price"></span>
+            <span _ntesquote_="code:0000001;attr:updown;fixed:2;color:updown;"></span>
+            <span _ntesquote_="code:0000001;attr:percent;percent:2;color:updown;"></span>
+            <span><em _ntesquote_="code:0000001;attr:turnover;fixed:0;/:100000000"></em>亿</span>
+        </div>
+        <div class="col_2 separate">
+            <div class="mystock">
+                <a href="http://i.money.163.com" target="_blank" id="mystock" class="top_mystock"></a>
+            </div>
+        </div>
+        <div class="col_3">
+            <input type="button" class="button" value="搜索" id="stockSearchBtn"><input id="stockSearch" name="stock_search" autocomplete="off" type="text" class="field"  placeholder="代码/拼音/名称">
+        </div>
+    </div>
+    <div class="stock_info">
+	<table>
+		<tr>
+			<td class="col_1">
+			    <h1 class="name">
+					<a href='/0600618.html'>氯碱化工</a>
+					<span>(<a href='/0600618.html'>600618</a>)</span>
+			    </h1>
+			</td>
+			<td class="col_2">
+				<div  class="stock_detail">
+					<table>
+						<tr>
+							<td class="price">							<span _ntesquote_="code:0600618;fmt:pic_updown;" class="price_arrow"><strong _ntesquote_="code:0600618;attr:price;fixed:2;color:updown"></strong></span><em _ntesquote_="code:0600618;attr:updown;fixed:2;color:updown"></em><br /><em _ntesquote_="code:0600618;attr:percent;percent:2;color:updown"></em>
+							</td>
+							<td>今开：<strong _ntesquote_="code:0600618;attr:open;fixed:2;color:updown"></strong><br />昨收：<strong _ntesquote_="code:0600618;attr:yestclose;fixed:2;color:updown"></strong></td>
+							<td>最高：<strong _ntesquote_="code:0600618;attr:high;fixed:2;color:updown"></strong><br />最低：<strong _ntesquote_="code:0600618;attr:low;fixed:2;color:updown"></strong></td>
+							<td>成交量：<strong _ntesquote_="code:0600618;attr:volume;fmt:volume-cut"></strong><br />成交额：<strong _ntesquote_="code:0600618;attr:turnover;fmt:turnover-cut"></strong></td>
+							<td>量比：<strong>1.12</strong><br />换手：<strong _ntesquote_="code:0600618;fmt:huanshou;SCSTC27:74983.9976"></strong></td>
+							<td class="add_btn_cont"><a href="" class="add_btn" data-code="0600618"><span>加入自选股</span></a></td>
+						</tr>
+						<tr class="stock_bref">
+							<td><span  _ntesquote_="code:0600618;attr:time" class="refresh_time"></span></td>
+							<td>流通市值：<span _ntesquote_="code:0600618;fmt:stockmcap;SCSTC27:74983.9976"></span></td>
+							<td title='市盈率=最新股价/最近四个季度每股收益之和'>市盈率：<span _ntesquote_="code:0600618;fmt:pe;MFSUM:0.9594"></span></td>
+							<td>52周最高：<span class="cRed">11.13</span></td>
+							<td>52周最低：<span class="cGreen">5.95</span></td>
+							<td></td>
+						</tr>
+					</table>
+				</div>
+			</td>
+		</tr>
+	</table>
+</div>
+<script>
+	var MONEYSHOWLISTSAVE = 1;
+</script>
+    <script type="text/javascript">
+        var STOCKCODE = '0600618';
+        var STOCKSYMBOL = '600618';
+        var STOCKNAME = '氯碱化工';
+    </script>
+</div>
+    <div id="menuCont" class="main_menu_cont">
+    <ul class="main_menu clearfix">
+                    <li class=""><a href="/0600618.html#01a01"><strong>氯碱化工(600618)</strong></a></li>
+                        <li class="current active"><a href="/trade/zjlx_600618.html#01b01">资金流向</a></li>
+                        <li class=""><a href="/f10/zycwzb_600618.html#01c01">财务分析</a></li>
+                        <li class=""><a href="/f10/gdfx_600618.html#01d01">股东股本</a></li>
+                        <li class=""><a href="/f10/gsgg_600618.html#01e01">新闻公告</a></li>
+                        <li class=""><a href="/f10/hydb_600618.html#01g01">行业对比</a></li>
+                        <li class=""><a href="/f10/gszl_600618.html#01f01">公司资料</a></li>
+                </ul>
+    <div class="submenu_cont clearfix">
+                <div class="sub_menu tab_panel clearfix">
+            <ul>
+                                    <li class=" last"><a href="/0600618.html#01a02">首页概览</a></li>
+                                </ul>
+        </div>
+                <div class="sub_menu tab_panel clearfix">
+            <ul>
+                                    <li class=""><a href="/trade/zjlx_600618.html#01b02">资金流向</a></li>
+                                        <li class=""><a href="/trade/ddtj_600618.html#01b03">大单统计</a></li>
+                                        <li class=""><a href="/trade/fjb_600618.html#01b04">分价表</a></li>
+                                        <li class=""><a href="/trade/cjmx_600618.html#01b05">成交明细</a></li>
+                                        <li class=""><a href="/trade/lhb_600618.html#01b06">龙虎榜</a></li>
+                                        <li class="current"><a href="/trade/lsjysj_600618.html#01b07">历史交易数据</a></li>
+                                        <li class=" last"><a href="/trade/lszjlx_600618.html#01b08">历史资金流向</a></li>
+                                </ul>
+        </div>
+                <div class="sub_menu tab_panel clearfix">
+            <ul>
+                                    <li class=""><a href="/f10/zycwzb_600618.html#01c02">主要财务指标</a></li>
+                                        <li class=""><a href="/f10/yjyg_600618.html#01c03">业绩预告</a></li>
+                                        <li class=""><a href="/f10/cwbbzy_600618.html#01c04">财务报表摘要</a></li>
+                                        <li class=""><a href="/f10/zcfzb_600618.html#01c05">资产负债表</a></li>
+                                        <li class=""><a href="/f10/lrb_600618.html#01c06">利润表</a></li>
+                                        <li class=""><a href="/f10/xjllb_600618.html#01c07">现金流量表</a></li>
+                                        <li class=" last"><a href="/f10/dbfx_600618.html#01c08">杜邦分析</a></li>
+                                </ul>
+        </div>
+                <div class="sub_menu tab_panel clearfix">
+            <ul>
+                                    <li class=""><a href="/f10/gdfx_600618.html#01d02">股东分析</a></li>
+                                        <li class=""><a href="/f10/jjcg_600618.html#01d03">基金持股</a></li>
+                                        <li class=""><a href="/f10/nbcg_600618.html#01d04">内部持股</a></li>
+                                        <li class=" last"><a href="/f10/fhpg_600618.html#01d05">分红配股</a></li>
+                                </ul>
+        </div>
+                <div class="sub_menu tab_panel clearfix">
+            <ul>
+                                    <li class=""><a href="/f10/gsgg_600618.html#01e02">公司公告</a></li>
+                                        <li class=" last"><a href="/f10/gsxw_600618.html#01e03">公司新闻</a></li>
+                                </ul>
+        </div>
+                <div class="sub_menu tab_panel clearfix">
+            <ul>
+                                    <li class=""><a href="/f10/hydb_600618.html#01g02">行业对比</a></li>
+                                        <li class=""><a href="/f10/hybk_600618.html#01g03">行业板块</a></li>
+                                        <li class=""><a href="/f10/qybk_600618.html#01g05">区域板块</a></li>
+                                        <li class=" last"><a href="/f10/zsbk_600618.html#01g06">指数板块</a></li>
+                                </ul>
+        </div>
+                <div class="sub_menu tab_panel clearfix">
+            <ul>
+                                    <li class=" last"><a href="/f10/gszl_600618.html#01f02">公司资料</a></li>
+                                </ul>
+        </div>
+            </div>
+</div>
+    <div class="blank9"></div>
+    
+<h1 class="title_01"><span class="name">氯碱化工(600618) 历史交易数据</span></h1>
+<div class="inner_box">
+    <div class="search_area align_r">
+        <form id="date" action="/trade/lsjysj_600618.html">
+            <select name="year">
+                <option value="2019" >2019</option><option value="2018" >2018</option><option value="2017" >2017</option><option value="2016" >2016</option><option value="2015" >2015</option><option value="2014" >2014</option><option value="2013" selected>2013</option><option value="2012" >2012</option><option value="2011" >2011</option><option value="2010" >2010</option><option value="2009" >2009</option><option value="2008" >2008</option><option value="2007" >2007</option><option value="2006" >2006</option><option value="2005" >2005</option><option value="2004" >2004</option><option value="2003" >2003</option><option value="2002" >2002</option><option value="2001" >2001</option><option value="2000" >2000</option><option value="1999" >1999</option><option value="1998" >1998</option><option value="1997" >1997</option><option value="1996" >1996</option><option value="1995" >1995</option><option value="1994" >1994</option><option value="1993" >1993</option><option value="1992" >1992</option>            </select>
+			&nbsp;&nbsp;
+            <select name="season">
+				<option value="4" >四季度</option><option value="3" >三季度</option><option value="2" selected>二季度</option><option value="1" >一季度</option>            </select>
+			&nbsp;&nbsp;
+            <input type="submit" value="查询" class="search_btn"/>
+            <a href="" class="download_link"  id="downloadData">下载数据</a>
+        </form>
+    </div>
+    <table class="table_bg001 border_box limit_sale">
+        <thead>
+        <tr class="dbrow">
+            <th>日期</th>
+            <th>开盘价</th>
+            <th>最高价</th>
+            <th>最低价</th>
+            <th>收盘价</th>
+            <th>涨跌额</th>
+            <th>涨跌幅(%)</th>
+            <th>成交量(手)</th>
+            <th>成交金额(万元)</th>
+            <th>振幅(%)</th>
+            <th>换手率(%)</th>
+        </tr>
+        </thead>
+        <tr class=''><td>2013-06-28</td><td class='cGreen'>6.00</td><td class='cRed'>6.14</td><td class='cGreen'>5.81</td><td class='cGreen'>5.95</td><td class='cGreen'>-0.07</td><td class='cGreen'>-1.16</td><td>16,608</td><td>997</td><td>5.48</td><td>0.22</td></tr><tr class='dbrow'><td>2013-06-27</td><td class='cGreen'>6.18</td><td class='cRed'>6.27</td><td class='cGreen'>6.00</td><td class='cGreen'>6.02</td><td class='cGreen'>-0.17</td><td class='cGreen'>-2.75</td><td>22,368</td><td>1,378</td><td>4.36</td><td>0.30</td></tr><tr class=''><td>2013-06-26</td><td class='cRed'>6.17</td><td class='cRed'>6.28</td><td class='cGreen'>6.08</td><td class='cRed'>6.19</td><td class='cRed'>0.03</td><td class='cRed'>0.49</td><td>17,152</td><td>1,055</td><td>3.25</td><td>0.23</td></tr><tr class='dbrow'><td>2013-06-25</td><td class='cGreen'>6.35</td><td class='cGreen'>6.37</td><td class='cGreen'>5.75</td><td class='cGreen'>6.16</td><td class='cGreen'>-0.23</td><td class='cGreen'>-3.60</td><td>33,011</td><td>2,007</td><td>9.70</td><td>0.44</td></tr><tr class=''><td>2013-06-24</td><td class='cRed'>7.10</td><td class='cRed'>7.14</td><td class='cGreen'>6.38</td><td class='cGreen'>6.39</td><td class='cGreen'>-0.70</td><td class='cGreen'>-9.87</td><td>41,923</td><td>2,791</td><td>10.72</td><td>0.56</td></tr><tr class='dbrow'><td>2013-06-21</td><td class='cGreen'>7.15</td><td class='cGreen'>7.26</td><td class='cGreen'>7.00</td><td class='cGreen'>7.09</td><td class='cGreen'>-0.29</td><td class='cGreen'>-3.93</td><td>39,640</td><td>2,824</td><td>3.52</td><td>0.53</td></tr><tr class=''><td>2013-06-20</td><td class='cGreen'>7.03</td><td class='cRed'>7.61</td><td class='cGreen'>6.93</td><td class='cRed'>7.38</td><td class='cRed'>0.33</td><td class='cRed'>4.68</td><td>89,957</td><td>6,611</td><td>9.65</td><td>1.20</td></tr><tr class='dbrow'><td>2013-06-19</td><td class='cGreen'>7.12</td><td class='cGreen'>7.12</td><td class='cGreen'>6.98</td><td class='cGreen'>7.05</td><td class='cGreen'>-0.07</td><td class='cGreen'>-0.98</td><td>16,705</td><td>1,175</td><td>1.97</td><td>0.22</td></tr><tr class=''><td>2013-06-18</td><td class='cRed'>7.15</td><td class='cRed'>7.24</td><td class='cGreen'>7.09</td><td class='cGreen'>7.12</td><td class='cGreen'>-0.02</td><td class='cGreen'>-0.28</td><td>12,741</td><td>910</td><td>2.10</td><td>0.17</td></tr><tr class='dbrow'><td>2013-06-17</td><td class='cGreen'>7.23</td><td class='cRed'>7.27</td><td class='cGreen'>7.08</td><td class='cGreen'>7.14</td><td class='cGreen'>-0.09</td><td class='cGreen'>-1.24</td><td>13,292</td><td>952</td><td>2.63</td><td>0.18</td></tr><tr class=''><td>2013-06-14</td><td class='cGreen'>7.25</td><td class='cRed'>7.28</td><td class='cGreen'>7.14</td><td class='cGreen'>7.23</td><td class='cGreen'>-0.02</td><td class='cGreen'>-0.28</td><td>17,297</td><td>1,248</td><td>1.93</td><td>0.23</td></tr><tr class='dbrow'><td>2013-06-13</td><td class='cGreen'>7.44</td><td class='cGreen'>7.44</td><td class='cGreen'>7.06</td><td class='cGreen'>7.25</td><td class='cGreen'>-0.22</td><td class='cGreen'>-2.95</td><td>23,427</td><td>1,679</td><td>5.09</td><td>0.31</td></tr><tr class=''><td>2013-06-07</td><td class='cGreen'>7.68</td><td class='cRed'>7.75</td><td class='cGreen'>7.45</td><td class='cGreen'>7.47</td><td class='cGreen'>-0.25</td><td class='cGreen'>-3.24</td><td>27,565</td><td>2,086</td><td>3.89</td><td>0.37</td></tr><tr class='dbrow'><td>2013-06-06</td><td class='cGreen'>7.83</td><td class='cRed'>7.93</td><td class='cGreen'>7.71</td><td class='cGreen'>7.72</td><td class='cGreen'>-0.20</td><td class='cGreen'>-2.53</td><td>21,393</td><td>1,665</td><td>2.78</td><td>0.29</td></tr><tr class=''><td>2013-06-05</td><td class='cRed'>7.80</td><td class='cRed'>7.96</td><td class='cGreen'>7.71</td><td class='cRed'>7.92</td><td class='cRed'>0.13</td><td class='cRed'>1.67</td><td>25,955</td><td>2,029</td><td>3.21</td><td>0.35</td></tr><tr class='dbrow'><td>2013-06-04</td><td class='cGreen'>7.88</td><td class='cRed'>7.96</td><td class='cGreen'>7.77</td><td class='cGreen'>7.79</td><td class='cGreen'>-0.15</td><td class='cGreen'>-1.89</td><td>23,537</td><td>1,849</td><td>2.39</td><td>0.31</td></tr><tr class=''><td>2013-06-03</td><td class='cGreen'>7.94</td><td class='cRed'>7.99</td><td class='cGreen'>7.85</td><td class='cGreen'>7.94</td><td class='cGreen'>0.00</td><td class='cGreen'>0.00</td><td>22,027</td><td>1,747</td><td>1.76</td><td>0.29</td></tr><tr class='dbrow'><td>2013-05-31</td><td class='cRed'>8.00</td><td class='cRed'>8.05</td><td class='cGreen'>7.90</td><td class='cRed'>7.94</td><td class='cRed'>0.02</td><td class='cRed'>0.25</td><td>30,835</td><td>2,459</td><td>1.89</td><td>0.41</td></tr><tr class=''><td>2013-05-30</td><td class='cGreen'>7.98</td><td class='cGreen'>8.00</td><td class='cGreen'>7.90</td><td class='cGreen'>7.92</td><td class='cGreen'>-0.10</td><td class='cGreen'>-1.25</td><td>29,493</td><td>2,341</td><td>1.25</td><td>0.39</td></tr><tr class='dbrow'><td>2013-05-29</td><td class='cGreen'>8.05</td><td class='cRed'>8.15</td><td class='cGreen'>7.97</td><td class='cGreen'>8.02</td><td class='cGreen'>-0.03</td><td class='cGreen'>-0.37</td><td>43,374</td><td>3,489</td><td>2.24</td><td>0.58</td></tr><tr class=''><td>2013-05-28</td><td class='cGreen'>8.00</td><td class='cRed'>8.07</td><td class='cGreen'>7.90</td><td class='cRed'>8.05</td><td class='cRed'>0.05</td><td class='cRed'>0.63</td><td>49,873</td><td>3,987</td><td>2.13</td><td>0.67</td></tr><tr class='dbrow'><td>2013-05-27</td><td class='cGreen'>7.77</td><td class='cRed'>8.01</td><td class='cGreen'>7.77</td><td class='cRed'>8.00</td><td class='cRed'>0.17</td><td class='cRed'>2.17</td><td>43,849</td><td>3,474</td><td>3.07</td><td>0.58</td></tr><tr class=''><td>2013-05-24</td><td class='cRed'>7.84</td><td class='cRed'>7.88</td><td class='cGreen'>7.74</td><td class='cRed'>7.83</td><td class='cRed'>0.02</td><td class='cRed'>0.26</td><td>26,907</td><td>2,099</td><td>1.79</td><td>0.36</td></tr><tr class='dbrow'><td>2013-05-23</td><td class='cGreen'>7.92</td><td class='cRed'>7.98</td><td class='cGreen'>7.80</td><td class='cGreen'>7.81</td><td class='cGreen'>-0.11</td><td class='cGreen'>-1.39</td><td>31,786</td><td>2,508</td><td>2.27</td><td>0.42</td></tr><tr class=''><td>2013-05-22</td><td class='cGreen'>7.95</td><td class='cRed'>8.03</td><td class='cGreen'>7.87</td><td class='cGreen'>7.92</td><td class='cGreen'>-0.07</td><td class='cGreen'>-0.88</td><td>34,845</td><td>2,766</td><td>2.00</td><td>0.46</td></tr><tr class='dbrow'><td>2013-05-21</td><td class='cRed'>7.96</td><td class='cRed'>8.06</td><td class='cGreen'>7.91</td><td class='cRed'>7.99</td><td class='cRed'>0.07</td><td class='cRed'>0.88</td><td>47,751</td><td>3,810</td><td>1.89</td><td>0.64</td></tr><tr class=''><td>2013-05-20</td><td class='cGreen'>7.86</td><td class='cRed'>7.97</td><td class='cGreen'>7.82</td><td class='cRed'>7.92</td><td class='cRed'>0.01</td><td class='cRed'>0.13</td><td>44,342</td><td>3,504</td><td>1.90</td><td>0.59</td></tr><tr class='dbrow'><td>2013-05-17</td><td class='cGreen'>7.81</td><td class='cRed'>7.99</td><td class='cGreen'>7.75</td><td class='cRed'>7.91</td><td class='cRed'>0.01</td><td class='cRed'>0.13</td><td>50,356</td><td>3,957</td><td>3.04</td><td>0.67</td></tr><tr class=''><td>2013-05-16</td><td class='cRed'>8.00</td><td class='cRed'>8.15</td><td class='cRed'>7.90</td><td class='cRed'>7.90</td><td class='cRed'>0.18</td><td class='cRed'>2.33</td><td>92,964</td><td>7,437</td><td>3.24</td><td>1.24</td></tr><tr class='dbrow'><td>2013-05-15</td><td class='cGreen'>7.56</td><td class='cRed'>7.72</td><td class='cGreen'>7.54</td><td class='cRed'>7.72</td><td class='cRed'>0.16</td><td class='cRed'>2.12</td><td>20,904</td><td>1,597</td><td>2.38</td><td>0.28</td></tr><tr class=''><td>2013-05-14</td><td class='cGreen'>7.70</td><td class='cGreen'>7.72</td><td class='cGreen'>7.54</td><td class='cGreen'>7.56</td><td class='cGreen'>-0.17</td><td class='cGreen'>-2.20</td><td>25,045</td><td>1,903</td><td>2.33</td><td>0.33</td></tr><tr class='dbrow'><td>2013-05-13</td><td class='cGreen'>7.80</td><td class='cGreen'>7.83</td><td class='cGreen'>7.69</td><td class='cGreen'>7.73</td><td class='cGreen'>-0.11</td><td class='cGreen'>-1.40</td><td>24,128</td><td>1,865</td><td>1.79</td><td>0.32</td></tr><tr class=''><td>2013-05-10</td><td class='cGreen'>7.71</td><td class='cRed'>7.85</td><td class='cGreen'>7.66</td><td class='cRed'>7.84</td><td class='cRed'>0.06</td><td class='cRed'>0.77</td><td>34,828</td><td>2,715</td><td>2.44</td><td>0.46</td></tr><tr class='dbrow'><td>2013-05-09</td><td class='cGreen'>7.75</td><td class='cRed'>7.79</td><td class='cGreen'>7.61</td><td class='cRed'>7.78</td><td class='cRed'>0.03</td><td class='cRed'>0.39</td><td>29,197</td><td>2,246</td><td>2.32</td><td>0.39</td></tr><tr class=''><td>2013-05-08</td><td class='cGreen'>7.79</td><td class='cRed'>7.84</td><td class='cGreen'>7.67</td><td class='cGreen'>7.75</td><td class='cGreen'>-0.06</td><td class='cGreen'>-0.77</td><td>26,184</td><td>2,025</td><td>2.18</td><td>0.35</td></tr><tr class='dbrow'><td>2013-05-07</td><td class='cRed'>7.88</td><td class='cRed'>7.95</td><td class='cGreen'>7.75</td><td class='cGreen'>7.81</td><td class='cGreen'>-0.06</td><td class='cGreen'>-0.76</td><td>36,560</td><td>2,866</td><td>2.54</td><td>0.49</td></tr><tr class=''><td>2013-05-06</td><td class='cRed'>7.68</td><td class='cRed'>7.95</td><td class='cRed'>7.67</td><td class='cRed'>7.87</td><td class='cRed'>0.31</td><td class='cRed'>4.10</td><td>58,521</td><td>4,574</td><td>3.70</td><td>0.78</td></tr><tr class='dbrow'><td>2013-05-03</td><td class='cGreen'>7.40</td><td class='cRed'>7.63</td><td class='cGreen'>7.38</td><td class='cRed'>7.56</td><td class='cRed'>0.13</td><td class='cRed'>1.75</td><td>19,815</td><td>1,494</td><td>3.36</td><td>0.26</td></tr><tr class=''><td>2013-05-02</td><td class='cRed'>7.58</td><td class='cRed'>7.59</td><td class='cGreen'>7.39</td><td class='cGreen'>7.43</td><td class='cGreen'>-0.03</td><td class='cGreen'>-0.40</td><td>12,356</td><td>922</td><td>2.68</td><td>0.16</td></tr><tr class='dbrow'><td>2013-04-26</td><td class='cGreen'>7.48</td><td class='cRed'>7.62</td><td class='cGreen'>7.45</td><td class='cGreen'>7.46</td><td class='cGreen'>-0.02</td><td class='cGreen'>-0.27</td><td>16,027</td><td>1,207</td><td>2.27</td><td>0.21</td></tr><tr class=''><td>2013-04-25</td><td class='cGreen'>7.55</td><td class='cRed'>7.67</td><td class='cGreen'>7.45</td><td class='cGreen'>7.48</td><td class='cGreen'>-0.10</td><td class='cGreen'>-1.32</td><td>16,617</td><td>1,253</td><td>2.90</td><td>0.22</td></tr><tr class='dbrow'><td>2013-04-24</td><td class='cRed'>7.50</td><td class='cRed'>7.62</td><td class='cGreen'>7.45</td><td class='cRed'>7.58</td><td class='cRed'>0.09</td><td class='cRed'>1.20</td><td>12,328</td><td>930</td><td>2.27</td><td>0.16</td></tr><tr class=''><td>2013-04-23</td><td class='cRed'>7.77</td><td class='cRed'>7.78</td><td class='cGreen'>7.48</td><td class='cGreen'>7.49</td><td class='cGreen'>-0.27</td><td class='cGreen'>-3.48</td><td>17,970</td><td>1,368</td><td>3.87</td><td>0.24</td></tr><tr class='dbrow'><td>2013-04-22</td><td class='cGreen'>7.67</td><td class='cRed'>7.80</td><td class='cGreen'>7.63</td><td class='cRed'>7.76</td><td class='cRed'>0.02</td><td class='cRed'>0.26</td><td>17,676</td><td>1,368</td><td>2.20</td><td>0.24</td></tr><tr class=''><td>2013-04-19</td><td class='cGreen'>7.55</td><td class='cRed'>7.77</td><td class='cGreen'>7.55</td><td class='cRed'>7.74</td><td class='cRed'>0.17</td><td class='cRed'>2.25</td><td>23,352</td><td>1,800</td><td>2.91</td><td>0.31</td></tr><tr class='dbrow'><td>2013-04-18</td><td class='cGreen'>7.51</td><td class='cRed'>7.61</td><td class='cGreen'>7.46</td><td class='cGreen'>7.57</td><td class='cGreen'>0.00</td><td class='cGreen'>0.00</td><td>9,306</td><td>704</td><td>1.98</td><td>0.12</td></tr><tr class=''><td>2013-04-17</td><td class='cGreen'>7.60</td><td class='cRed'>7.64</td><td class='cGreen'>7.49</td><td class='cGreen'>7.57</td><td class='cGreen'>-0.03</td><td class='cGreen'>-0.39</td><td>10,725</td><td>810</td><td>1.97</td><td>0.14</td></tr><tr class='dbrow'><td>2013-04-16</td><td class='cGreen'>7.45</td><td class='cRed'>7.61</td><td class='cGreen'>7.42</td><td class='cRed'>7.60</td><td class='cRed'>0.04</td><td class='cRed'>0.53</td><td>11,161</td><td>839</td><td>2.51</td><td>0.15</td></tr><tr class=''><td>2013-04-15</td><td class='cRed'>7.67</td><td class='cRed'>7.74</td><td class='cGreen'>7.45</td><td class='cGreen'>7.56</td><td class='cGreen'>-0.10</td><td class='cGreen'>-1.31</td><td>13,813</td><td>1,040</td><td>3.79</td><td>0.18</td></tr><tr class='dbrow'><td>2013-04-12</td><td class='cGreen'>7.70</td><td class='cRed'>7.78</td><td class='cGreen'>7.66</td><td class='cGreen'>7.66</td><td class='cGreen'>-0.04</td><td class='cGreen'>-0.52</td><td>14,628</td><td>1,128</td><td>1.56</td><td>0.20</td></tr><tr class=''><td>2013-04-11</td><td class='cGreen'>7.69</td><td class='cRed'>7.79</td><td class='cGreen'>7.69</td><td class='cGreen'>7.70</td><td class='cGreen'>-0.03</td><td class='cGreen'>-0.39</td><td>19,742</td><td>1,529</td><td>1.29</td><td>0.26</td></tr><tr class='dbrow'><td>2013-04-10</td><td class='cGreen'>7.73</td><td class='cGreen'>7.78</td><td class='cGreen'>7.64</td><td class='cGreen'>7.73</td><td class='cGreen'>-0.05</td><td class='cGreen'>-0.64</td><td>16,389</td><td>1,262</td><td>1.80</td><td>0.22</td></tr><tr class=''><td>2013-04-09</td><td class='cGreen'>7.71</td><td class='cRed'>7.81</td><td class='cGreen'>7.67</td><td class='cRed'>7.78</td><td class='cRed'>0.07</td><td class='cRed'>0.91</td><td>30,206</td><td>2,339</td><td>1.82</td><td>0.40</td></tr><tr class='dbrow'><td>2013-04-08</td><td class='cRed'>7.73</td><td class='cRed'>7.73</td><td class='cGreen'>7.49</td><td class='cGreen'>7.71</td><td class='cGreen'>0.00</td><td class='cGreen'>0.00</td><td>15,735</td><td>1,195</td><td>3.11</td><td>0.21</td></tr><tr class=''><td>2013-04-03</td><td class='cGreen'>7.84</td><td class='cGreen'>7.84</td><td class='cGreen'>7.66</td><td class='cGreen'>7.71</td><td class='cGreen'>-0.13</td><td class='cGreen'>-1.66</td><td>19,338</td><td>1,494</td><td>2.30</td><td>0.26</td></tr><tr class='dbrow'><td>2013-04-02</td><td class='cRed'>7.82</td><td class='cRed'>7.97</td><td class='cGreen'>7.75</td><td class='cRed'>7.84</td><td class='cRed'>0.07</td><td class='cRed'>0.90</td><td>25,720</td><td>2,029</td><td>2.83</td><td>0.34</td></tr><tr class=''><td>2013-04-01</td><td class='cGreen'>7.68</td><td class='cRed'>7.81</td><td class='cGreen'>7.68</td><td class='cRed'>7.77</td><td class='cRed'>0.09</td><td class='cRed'>1.17</td><td>14,337</td><td>1,114</td><td>1.69</td><td>0.19</td></tr></tr>    </table>
+</div>
+<div id="dropBox1" class="drop_box">
+	<div  class="hd">
+		下载数据
+	</div>
+	<div class="bd">
+		<form action="" name="tradeData">
+			<table id="tcdatafields" width="300" border="0" cellspacing="0" cellpadding="0">
+			  <tbody>
+				  <tr>
+					<td height="25"><input name="" type="checkbox" value="TCLOSE" checked="checked"> 收盘价</td>
+					<td><input name="" type="checkbox" value="HIGH" checked="checked"> 最高价</td>
+					<td><input name="" type="checkbox" value="LOW" checked="checked"> 最低价</td>
+					<td><input name="" type="checkbox" value="TOPEN" checked="checked"> 开盘价</td>
+				  </tr>
+				  <tr>
+					<td height="25"><input name="" type="checkbox" value="LCLOSE" checked="checked"> 前收盘</td>
+					<td><input name="" type="checkbox" value="CHG" checked="checked"> 涨跌额</td>
+					<td><input name="" type="checkbox" value="PCHG" checked="checked"> 涨跌幅</td>
+					<td><input name="" type="checkbox" value="TURNOVER" checked="checked"> 换手率</td>
+				  </tr>
+				  <tr>
+					<td height="25"><input name="" type="checkbox" value="VOTURNOVER" checked="checked"> 成交量</td>
+					<td><input name="" type="checkbox" value="VATURNOVER" checked="checked"> 成交金额</td>
+					<td height="25"><input name="" type="checkbox" value="TCAP" checked="checked"> 总市值</td>
+					<td><input name="" type="checkbox" value="MCAP" checked="checked"> 流通市值</td>
+				  </tr>
+				</tbody>
+			</table>
+			<div class="blank9"></div>
+			<table width="300" border="0" cellspacing="0" cellpadding="0">
+				  <tbody><tr>
+					<td height="28"><span class="cDBlue">起始日期</span></td>
+					<td>
+					<input type="radio" name="date_start_type" value="1992-11-12" checked="checked">
+					<input type="text" name="date_start_value" style="width:120px" value="1992-11-12">
+					<input type="radio" name="date_start_type" value="1992-08-20" >上市日
+					<!--select name="">
+				<option value="" selected="selected">2010-03-26</option>
+				<option value="">2010-03-27</option>
+				</select-->
+					</td>
+					<td></td>
+				  </tr>
+				  <tr>
+					<td height="28"><span class="cDBlue">截止日期</span></td>
+					<td>
+					<input type="radio" name="date_end_type" value="2019-05-15" checked="checked">
+					<input type="text" name="date_end_value" style="width:120px" value="2019-05-15">
+					<input type="radio" name="date_end_type" value="2019-05-16">今日
+					<!--select name="">
+				<option value="" selected="selected">2010-03-26</option>
+				<option value="">2010-03-27</option>
+				</select-->
+					</td>
+					<td></td>
+				  </tr>
+				</tbody>
+			</table>
+			<div class="blank9"></div>
+			<div class="align_c"><a class="blue_btn submit">下载</a>&nbsp;&nbsp;&nbsp;&nbsp;<a class="grey_btn cancel">取消</a></div>
+		</form>
+	</div>
+</div>
+<em id="pageIdentityCode" data-code="b5"></em>
+
+    <script type="text/javascript">
+var f2eConfig = {
+	stockts: 'http://file.ws.126.net/f2e/finance/gegu/js/stock_ts_js.667271.swf',
+	stockkl: 'http://file.ws.126.net/f2e/finance/gegu/js/stock_kl_js.667271.swf'
+}
+
+/*
+function doTracker(){
+	setTimeout(function(){if(typeof neteaseTracker == "function")neteaseTracker();doTracker();},5*60*1000);
+} 
+doTracker();
+*/
+
+// 二维码
+!(function(){
+	var version = window.navigator.appVersion;
+	var isIE6 = (version.indexOf("MSIE 6.0") != -1 || version.indexOf("MSIE 5.5") != -1)? true:false;
+	if(location.hostname.indexOf("news") == -1){
+           showQR(35, "http://img4.cache.netease.com/stock/2017/5/24/20170524105815a8be1.png");
+           // http://img2.cache.netease.com/stock/2014/8/14/20140814165055a7606.jpg
+           //
+           // http://img6.cache.netease.com/stock/2014/2/18/20140218110538d9103.jpg 微信易信二维码
+           //
+           // http://img2.cache.netease.com/stock/2014/10/21/201410211523115048d.png
+		   // http://img1.cache.netease.com/stock/2014/11/26/201411261107570399d.png
+           //
+	}
+	function showQR(bottom, imgUrl){
+		var QRbox= document.createElement("div");
+		var QRboxCSS ={
+			'width': "110px",
+			'height': "147px",
+			'position': "fixed",
+			'_position': "absolute",
+			'bottom': bottom + "px",
+			'right': "3px",
+			'display':"block",
+			'zIndex':100
+		};
+		for(var key in QRboxCSS){
+			QRbox.style[key] = QRboxCSS[key];
+		}
+	 	if(isIE6){
+	 		QRbox.style.position = "absolute";
+	 	}
+
+		//QRbox.innerHTML="<a href='javascript:;' target='_blank'></a>";
+		QRbox.innerHTML="<a href='http://money.163.com/special/app_spread230/?tc01' target='_blank'></a>";
+		var link =QRbox.getElementsByTagName("a")[0];
+		var backgroundImage = "url(" + imgUrl + ")";
+		var linkCSS = {
+			'display' : "block",
+			'width' : "100%",
+			'height' : "100%",
+			'backgroundImage' : backgroundImage,
+			'backgroundPosition' : "0px 0px"
+		};
+		for(var key in linkCSS){
+			link.style[key] = linkCSS[key]
+		}
+		document.body.appendChild(QRbox);
+		var linkEventMap = {
+			"mouseover": function(){
+				link.style.backgroundPosition = "-110px 0px";
+			},
+			"mouseout": function(){
+				link.style.backgroundPosition = "0px 0px";
+			}
+		}
+		for(var evt in linkEventMap){
+			var func = linkEventMap[evt];
+			addEvent(evt, link, func);
+		}
+		// addEvent("scroll", window, function(){
+		// 	if( getScrollTop() > 200 ){
+		// 		QRbox.style.display = 'block';
+		// 	}else{
+		// 		QRbox.style.display = 'none';
+		// 	}
+		// 	if(isIE6){
+		// 		QRbox.style.top = getScrollTop() + top + "px";
+		// 	}
+		// });
+		var body = document.body;
+		addEvent("resize", window, function(){
+			var bodyWidth = body.clientWidth;
+			if( bodyWidth < 1180 ){
+				QRbox.style.right = (bodyWidth - 1180)/2 + 'px';
+			}else{
+				QRbox.style.right = '3px';
+			}
+		});
+	}
+	function addEvent(evt, elem, callback){
+		if(elem.addEventListener){
+			elem.addEventListener(evt, callback, false)
+		} else {
+			elem.attachEvent && elem.attachEvent("on"+evt, callback);
+		}
+	}
+	function getScrollTop(){
+	    if(typeof pageYOffset!= 'undefined'){
+	        //most browsers
+	        return pageYOffset;
+	    }
+	    else{
+	        var B= document.body; //IE 'quirks'
+	        var D= document.documentElement; //IE with doctype
+	        D= (D.clientHeight)? D: B;
+	        return D.scrollTop;
+	    }
+	}
+})();
+
+</script>
+<script src="http://img1.cache.netease.com/f2e/lib/js/ne.js"></script>
+<script src="http://img2.cache.netease.com/f2e/libs/jquery.js"></script>
+<script src="http://img1.cache.netease.com/f2e/finance/gegu/js/ne_gegu_a.VxEO4twoqLvl.1.js"></script>
+<script src="http://img1.cache.netease.com/f2e/finance/gegu/js/ne_gegu_b.jR2HPJ8AZpUI.1.js"></script>
+    <script src="http://img1.cache.netease.com/f2e/component/datepicker/datepicker.734886.min.js"></script>
+<script src="http://img1.cache.netease.com/f2e/finance/gegu/js/b.667271.min.js"></script>
+    <div class="blank20"></div>
+    <div class="foot">
+<div class="text"><a href="http://money.163.com/special/zhubianmail/">主编信箱</a>　热线:010-82558752　<a href="http://money.163.com/10/1201/14/6MQU982O00251OB6.html">加入我们</a> <a href="http://fankui.163.com/ft/cq.fb?pid=10005" target="_blank">意见反馈</a>　</div>
+<a href="http://corp.163.com/">About NetEase</a> - <a href="http://gb.corp.163.com/gb/about/overview.html">公司简介</a> - <a href="http://gb.corp.163.com/gb/contactus.html">联系方法</a> - <a href="http://corp.163.com/gb/job/job.html">招聘信息</a> - <a href="http://help.163.com/">客户服务</a> - <a href="http://gb.corp.163.com/gb/legal.html">隐私政策</a> - <a href="http://emarketing.biz.163.com/">网络营销</a> - <a href="http://sitemap.163.com/">网站地图</a> <br>
+网易公司版权所有<br>
+<span class="cRed">©1997-2019</span>
+<div class="blank20"></div>
+</div>
+<!-- START WRating v1.0 -->
+<script type="text/javascript" src="http://img6.cache.netease.com/common/script/wrating.js">
+</script>
+<script type="text/javascript">
+var vjAcc="860010-0507010000";
+var wrUrl="http://163.wrating.com/";
+vjTrack("");
+</script>
+<noscript><img src="http://163.wrating.com/a.gif?a=&c=860010-0507010000" width="1" height="1"/></noscript>
+<!-- END WRating v1.0 -->
+<!-- START NetEase Devilfish 2006 -->
+<script src="http://analytics.163.com/ntes.js" type="text/javascript"></script>
+<script type="text/javascript">
+_ntes_nacc = "stock";     //站点ID。
+neteaseTracker();
+neteaseClickStat();
+</script>
+<!-- END NetEase Devilfish 2006 -->
+<!-- START monitor -->
+<!-- END monitor -->
+</div>
+</body>
+</html>
