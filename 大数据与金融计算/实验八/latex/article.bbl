@@ -1,0 +1,74 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{none/global//global/global/global}
+  \entry{chen2014var}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=�}{%
+         family={陈坚},
+         familyi={�\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {厦门大学}%
+    }
+    \strng{namehash}{�1}
+    \strng{fullhash}{�1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{note}{基于国家自然科学基金项目（71201136）}
+    \field{number}{4}
+    \field{pages}{45\bibrangedash 94}
+    \field{title}{中国股票市场尾部风险与收益率预测——基于
+  Copula 与极值理论的 VaR 对比研究}
+    \field{volume}{224}
+    \field{journaltitle}{厦门大学学报（哲学社会科学版）}
+    \field{year}{2014}
+  \endentry
+
+  \entry{nieto2016frontiers}{article}{}{}
+    \name{author}{2}{}{%
+      {{hash=NMR}{%
+         family={Nieto},
+         familyi={N\bibinitperiod},
+         given={Maria\bibnamedelima Rosa},
+         giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=RE}{%
+         family={Ruiz},
+         familyi={R\bibinitperiod},
+         given={Esther},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{NMR+1}
+    \strng{fullhash}{NMRRE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{2}
+    \field{pages}{475\bibrangedash 501}
+    \field{title}{Frontiers in VaR forecasting and backtesting}
+    \field{volume}{32}
+    \field{journaltitle}{International Journal of Forecasting}
+    \field{year}{2016}
+  \endentry
+\enddatalist
+\endinput
