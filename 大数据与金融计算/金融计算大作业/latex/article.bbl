@@ -1,0 +1,513 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{none/global//global/global/global}
+  \entry{bollerslev1986generalized}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=BT}{%
+         family={Bollerslev},
+         familyi={B\bibinitperiod},
+         given={Tim},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{BT1}
+    \strng{fullhash}{BT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{3}
+    \field{pages}{307\bibrangedash 327}
+    \field{title}{Generalized autoregressive conditional heteroskedasticity}
+    \field{volume}{31}
+    \field{journaltitle}{Journal of econometrics}
+    \field{year}{1986}
+  \endentry
+
+  \entry{wang2022practical}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=WG}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Guansong},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{WG1}
+    \strng{fullhash}{WG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{1}
+    \field{pages}{112\bibrangedash 142}
+    \field{title}{A practical introduction to GARCH modeling}
+    \field{volume}{222}
+    \field{journaltitle}{Journal of Econometrics}
+    \field{year}{2022}
+  \endentry
+
+  \entry{tsay2013financial}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=TRS}{%
+         family={Tsay},
+         familyi={T\bibinitperiod},
+         given={Ruey\bibnamedelima S},
+         giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Taylor \& Francis}%
+    }
+    \strng{namehash}{TRS1}
+    \strng{fullhash}{TRS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{502}
+    \field{pages}{714\bibrangedash 715}
+    \field{title}{Financial time series analysis}
+    \field{volume}{108}
+    \field{journaltitle}{Journal of the American Statistical Association}
+    \field{year}{2013}
+  \endentry
+
+  \entry{hochreiter1997lstm}{article}{}{}
+    \name{author}{2}{}{%
+      {{hash=HS}{%
+         family={Hochreiter},
+         familyi={H\bibinitperiod},
+         given={Sepp},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Schmidhuber},
+         familyi={S\bibinitperiod},
+         given={J{\"u}rgen},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {MIT Press}%
+    }
+    \strng{namehash}{HS+1}
+    \strng{fullhash}{HSSJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{8}
+    \field{pages}{1735\bibrangedash 1780}
+    \field{title}{Long short-term memory}
+    \field{volume}{9}
+    \field{journaltitle}{Neural computation}
+    \field{year}{1997}
+  \endentry
+
+  \entry{yuan2020comprehensive}{article}{}{}
+    \name{author}{4}{}{%
+      {{hash=YX}{%
+         family={Yuan},
+         familyi={Y\bibinitperiod},
+         given={Xinyu},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=YJ}{%
+         family={Yuan},
+         familyi={Y\bibinitperiod},
+         given={Jiahui},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=JT}{%
+         family={Jiang},
+         familyi={J\bibinitperiod},
+         given={Tao},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=AQU}{%
+         family={Ain},
+         familyi={A\bibinitperiod},
+         given={Qurrat\bibnamedelima Ul},
+         giveni={Q\bibinitperiod\bibinitdelim U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{YX+1}
+    \strng{fullhash}{YXYJJTAQU1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{A comprehensive survey on deep learning stock price
+  prediction with full consideration of time series}
+    \field{journaltitle}{arXiv preprint arXiv:2009.10467}
+    \field{year}{2020}
+  \endentry
+
+  \entry{sullivan2019stock}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=SJC}{%
+         family={Sullivan},
+         familyi={S\bibinitperiod},
+         given={Jason\bibnamedelima C.},
+         giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{SJC1}
+    \strng{fullhash}{SJC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{2}
+    \field{pages}{1\bibrangedash 4}
+    \field{title}{Stock Price Volatility Prediction with Long Short-Term Memory
+  Neural Networks}
+    \field{volume}{6}
+    \field{journaltitle}{IEEE Transactions on Computational Social Systems}
+    \field{year}{2019}
+  \endentry
+
+  \entry{cao2005nonlinear}{article}{}{}
+    \name{author}{3}{}{%
+      {{hash=CQ}{%
+         family={Cao},
+         familyi={C\bibinitperiod},
+         given={Qing},
+         giveni={Q\bibinitperiod},
+      }}%
+      {{hash=LKB}{%
+         family={Leggio},
+         familyi={L\bibinitperiod},
+         given={Karyl\bibnamedelima B},
+         giveni={K\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=SMJ}{%
+         family={Schniederjans},
+         familyi={S\bibinitperiod},
+         given={Marc\bibnamedelima J},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{2}{%
+      {Science}%
+      {Engineering Publishing Company}%
+    }
+    \strng{namehash}{CQ+1}
+    \strng{fullhash}{CQLKBSMJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{1}
+    \field{pages}{1\bibrangedash 12}
+    \field{title}{Nonlinear modeling of stock market returns: a case study for
+  Chinese A-share market}
+    \field{volume}{3}
+    \field{journaltitle}{Journal of Finance and Economics}
+    \field{year}{2005}
+  \endentry
+
+  \entry{qiaoa2022prediction}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=QR}{%
+         family={Qiaoa},
+         familyi={Q\bibinitperiod},
+         given={Risheng},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Taylor \& Francis}%
+    }
+    \strng{namehash}{QR1}
+    \strng{fullhash}{QR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{1}
+    \field{pages}{2151159}
+    \field{title}{Prediction of stock return by LSTM neural network}
+    \field{volume}{36}
+    \field{journaltitle}{Applied Artificial Intelligence}
+    \field{year}{2022}
+  \endentry
+
+  \entry{kim2018forecasting}{article}{}{}
+    \name{author}{2}{}{%
+      {{hash=KHY}{%
+         family={Kim},
+         familyi={K\bibinitperiod},
+         given={Hyun\bibnamedelima Yeul},
+         giveni={H\bibinitperiod\bibinitdelim Y\bibinitperiod},
+      }}%
+      {{hash=WCH}{%
+         family={Won},
+         familyi={W\bibinitperiod},
+         given={Chang\bibnamedelima Hyun},
+         giveni={C\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{KHY+1}
+    \strng{fullhash}{KHYWCH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{25\bibrangedash 37}
+    \field{title}{Forecasting the volatility of stock price index: A hybrid
+  model integrating LSTM with multiple GARCH-type models}
+    \field{volume}{103}
+    \field{journaltitle}{Expert Systems with Applications}
+    \field{year}{2018}
+  \endentry
+
+  \entry{zhang2024vmd}{article}{}{}
+    \name{author}{3}{}{%
+      {{hash=ZY}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Yuan},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=CZ}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Zhonglin},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=GJ}{%
+         family={Gao},
+         familyi={G\bibinitperiod},
+         given={Jianwei},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{ZY+1}
+    \strng{fullhash}{ZYCZGJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{101902}
+    \field{title}{The fluctuation correlation between investor sentiment and
+  stock index using VMD-LSTM: Evidence from China stock market}
+    \field{volume}{67}
+    \field{journaltitle}{North American Journal of Economics and Finance}
+    \field{year}{2024}
+  \endentry
+
+  \entry{kakade2022value}{article}{}{}
+    \name{author}{4}{}{%
+      {{hash=KO}{%
+         family={Kakade},
+         familyi={K\bibinitperiod},
+         given={Onkar},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=TP}{%
+         family={Tilekar},
+         familyi={T\bibinitperiod},
+         given={Pooja},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=MS}{%
+         family={Mahalle},
+         familyi={M\bibinitperiod},
+         given={Sonal},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=BV}{%
+         family={Bhalerao},
+         familyi={B\bibinitperiod},
+         given={Vaibhav},
+         giveni={V\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{KO+1}
+    \strng{fullhash}{KOTPMSBV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{102841}
+    \field{title}{Value-at-Risk forecasting: A hybrid ensemble learning
+  GARCH-LSTM based approach}
+    \field{volume}{78}
+    \field{journaltitle}{Resources Policy}
+    \field{year}{2022}
+  \endentry
+
+  \entry{firdous2023garch}{article}{}{}
+    \name{author}{4}{}{%
+      {{hash=FA}{%
+         family={Firdous},
+         familyi={F\bibinitperiod},
+         given={Ahmad},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=KB}{%
+         family={Kocaarslan},
+         familyi={K\bibinitperiod},
+         given={Barış},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=KD}{%
+         family={Küçüksaraç},
+         familyi={K\bibinitperiod},
+         given={Doruk},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=UG}{%
+         family={Uzuner},
+         familyi={U\bibinitperiod},
+         given={Gökçe},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {MDPI}%
+    }
+    \strng{namehash}{FA+1}
+    \strng{fullhash}{FAKBKDUG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{8}
+    \field{pages}{1785}
+    \field{title}{GARCH-MIDAS-LSTM approach: The Effects of Economic
+  Expectations, Geopolitical Risks and Industrial Production during COVID-19}
+    \field{volume}{11}
+    \field{journaltitle}{Mathematics}
+    \field{year}{2023}
+  \endentry
+
+  \entry{araya2024hybrid}{article}{}{}
+    \name{author}{5}{}{%
+      {{hash=AJ}{%
+         family={Araya},
+         familyi={A\bibinitperiod},
+         given={Jorge},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=KA}{%
+         family={Krysha},
+         familyi={K\bibinitperiod},
+         given={Alexey},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=KW}{%
+         family={Kristjanpoller},
+         familyi={K\bibinitperiod},
+         given={Werner},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=NT}{%
+         family={Nielsen},
+         familyi={N\bibinitperiod},
+         given={Tine},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=SM}{%
+         family={Sandemann},
+         familyi={S\bibinitperiod},
+         given={Martin},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley}%
+    }
+    \strng{namehash}{AJ+1}
+    \strng{fullhash}{AJKAKWNTSM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{6305525}
+    \field{pages}{1\bibrangedash 16}
+    \field{title}{A Hybrid GARCH and Deep Learning Method for Volatility
+  Prediction}
+    \field{volume}{2024}
+    \field{journaltitle}{Journal of Applied Mathematics}
+    \field{year}{2024}
+  \endentry
+
+  \entry{yao2024time}{article}{}{}
+    \name{author}{2}{}{%
+      {{hash=YD}{%
+         family={Yao},
+         familyi={Y\bibinitperiod},
+         given={Dingjun},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=YK}{%
+         family={Yan},
+         familyi={Y\bibinitperiod},
+         given={Kai},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{YD+1}
+    \strng{fullhash}{YDYK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{102212}
+    \field{title}{Time series forecasting of stock market indices based on
+  DLWR-LSTM model}
+    \field{volume}{68}
+    \field{journaltitle}{Research in International Business and Finance}
+    \field{year}{2024}
+  \endentry
+
+  \entry{chen2024hybrid}{article}{}{}
+    \name{author}{3}{}{%
+      {{hash=CZ}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Zhixin},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=JC}{%
+         family={Jiang},
+         familyi={J\bibinitperiod},
+         given={Chenxi},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=SY}{%
+         family={Shen},
+         familyi={S\bibinitperiod},
+         given={Yuan},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{CZ+1}
+    \strng{fullhash}{CZJCSY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{1}
+    \field{pages}{11}
+    \field{title}{A hybrid stock prediction method based on
+  periodic/non-periodic features analyses}
+    \field{volume}{13}
+    \field{journaltitle}{EPJ Data Science}
+    \field{year}{2024}
+  \endentry
+\enddatalist
+\endinput
